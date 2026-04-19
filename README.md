@@ -5,7 +5,6 @@
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-teal?logo=fastapi)
 ![Angular](https://img.shields.io/badge/Frontend-Angular-red?logo=angular)
 ![LLM](https://img.shields.io/badge/AI-LLM%20%2B%20BERT-purple)
-![Hackathon](https://img.shields.io/badge/Hackathon-2nd%20Prize%20Winner-gold)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 <div align="center">
